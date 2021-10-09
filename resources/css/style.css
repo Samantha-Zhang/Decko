@@ -100,7 +100,7 @@ h2{
 }
  
 .btn-arrow{
-    background-image: url(/resources/images/ic-arrow-forward-24px\ 1.png);
+    background-image: url("../images/ic-arrow-forward-24px\ 1.png");
     background-size: cover;
     background-repeat: no-repeat;
     width: 24px;
@@ -109,7 +109,7 @@ h2{
 }
 
 .btn-arrow:hover{
-    background-image: url(/resources/images/ic-arrow-forward-24px\ green.png);
+    background-image: url("../images/ic-arrow-forward-24px\ green.png");
     background-size: cover;
     background-repeat: no-repeat;
     width: 24px;
@@ -216,7 +216,7 @@ h2{
 }
 
 .living-space-img{
-    background-image: url("../resources/images/living\ space.jpeg");
+    background-image: url("../images/living\ space.jpeg");
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
@@ -248,7 +248,7 @@ h2{
 }
 
 .patio-img{
-    background-image: url("images/patio.jpeg");
+    background-image: url("../images/patio.jpeg");
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
@@ -264,7 +264,7 @@ h2{
 }
 
 .plant-img{
-    background-image: url("../resources/images/plant.jpeg");
+    background-image: url("../images/plant.jpeg");
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
@@ -281,7 +281,7 @@ h2{
 }
 
 .lighting-img{
-    background-image: url("../resources/images/lighting.jpeg");
+    background-image: url("../images/lighting.jpeg");
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
@@ -297,7 +297,7 @@ h2{
 }
 
 .small-spaces-img{
-    background-image: url("../resources/images/small\ spaces.jpeg");
+    background-image: url("../images/small\ spaces.jpeg");
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
@@ -320,7 +320,7 @@ h2{
 }
 
 .kitchen-img{
-    background-image: url("../resources/images/kitchen.jpeg");
+    background-image: url("../images/kitchen.jpeg");
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
@@ -341,7 +341,7 @@ h2{
 }
 
 .article-main-img{
-    background-image: url("../resources/images/image\ -\ Stories\ highlight.png");
+    background-image: url("../images/image\ -\ Stories\ highlight.png");
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
@@ -357,7 +357,7 @@ h2{
 }
 
 .article-small-img-1{
-    background-image: url("../resources/images/image\ -\ Stories\ 1.png");
+    background-image: url("../images/image\ -\ Stories\ 1.png");
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
@@ -368,7 +368,7 @@ h2{
 }
 
 .article-small-img-2{
-    background-image: url("../resources/images/image\ -\ Stories\ 2.png");
+    background-image: url("../images/image\ -\ Stories\ 2.png");
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
@@ -407,7 +407,7 @@ h2{
 /* Hire a professional styling */
 
 .designer-img{
-    background-image: url("../resources/images/image\ Designer.png");
+    background-image: url("../images/image\ Designer.png");
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
@@ -423,7 +423,7 @@ h2{
 }
 
 .general-img{
-    background-image: url("../resources/images/image\ Gen\ Constructor.png");
+    background-image: url("../images/image\ Gen\ Constructor.png");
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
@@ -434,7 +434,7 @@ h2{
 }
 
 .plumbing-img{
-    background-image: url("../resources/images/image\ Plumbing.png");
+    background-image: url("../images/image\ Plumbing.png");
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
@@ -459,7 +459,7 @@ h2{
 }
 
 .home-img{
-    background-image: url(/resources/images/image\ Home\ Builders.png);
+    background-image: url("../images/image\ Home\ Builders.png");
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
@@ -470,7 +470,7 @@ h2{
 }
 
 .landscape-img{
-    background-image: url(/resources/images/image\ Landscape\ Arch.png);
+    background-image: url("../images/image\ Landscape\ Arch.png");
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
