@@ -248,7 +248,7 @@ h2{
 }
 
 .patio-img{
-    background-image: url("../resources/images/patio.jpeg");
+    background-image: url("images/patio.jpeg");
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
